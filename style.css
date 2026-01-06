@@ -1,0 +1,25 @@
+/*
+ * Theme Name:   GovPress Framework
+ * Theme URI:    https://github.com/joaoguiaguiar/wordpress-institutional-framework
+ * Template:     blocksy
+ * Author:       João Aguiar
+ * Author URI:   https://github.com/joaoguiaguiar
+ * Description:  Um framework de tema filho de alta performance, desenvolvido para redes de portais institucionais de grande escala. Focado em melhorias estruturais, segurança de dados e arquitetura modular baseada no tema Blocksy, facilitando a gestão por equipes de conteúdo.
+ * Version:      1.0.5
+ * Text Domain:  govPress-framework
+ * Requires PHP: 7.4
+ * License:      GPL v2 or later
+ *
+ * * FRAMEWORK DE TEMA FILHO PERSONALIZADO - ARQUITETURA MODULAR
+ *
+ * * PRINCIPAIS FUNCIONALIDADES IMPLEMENTADAS:
+ * - Integração completa entre menus personalizados e sistema de menus nativo do WordPress
+ * - Widget personalizado para vinculação de menus criados em Aparência > Menus
+ * - Implementação de um menu overlay lateral (off-canvas), ativado por ícone sanduíche, para exibir menus de navegação criados via widget customizado
+ * - Personalização visual avançada via WP Customizer (Cores, layouts e estilos).
+ * - Manipulação de CSS de plugins via jQuery/PHP sem alterar código fonte original
+ * - Navegação flexível e acessível para todos os perfis de usuário
+ * * 
+ * * @package GovPress_Framework
+ * @since   1.0.0
+ */
