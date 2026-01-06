@@ -24,7 +24,7 @@ function inst_criar_pasta_languages() {
     $pot_file = $languages_dir . '/inst-theme.pot';
     if (!file_exists($pot_file)) {
         file_put_contents($pot_file, 
-            "# Copyright (C) 2024 IBRAM\n" .
+            "# Copyright (C)\n" .
             "msgid \"\"\n" .
             "msgstr \"\"\n" .
             "\"Content-Type: text/plain; charset=UTF-8\\n\"\n" .
